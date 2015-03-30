@@ -1,0 +1,7 @@
+{
+  "name": "my-math-module",
+  "version": "0.0.1",
+  "description": "DO NOT USE THIS MODULE... It is only an example for a training session.",
+  "private": false,
+  "main": "index.js"
+}

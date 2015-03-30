@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 Create User
+  form(method='post', action='/User')
+    input(type='text', name='name', placeholder='Name')
+    br
+    input(type='text', name='pet', placeholder='Favorite pet')
+    br
+    input(type='submit')

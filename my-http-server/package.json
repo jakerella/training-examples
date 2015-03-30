@@ -1,0 +1,14 @@
+{
+  "name": "my-http-server",
+  "version": "0.1.0",
+  "description": "My little HTTP server app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jordan Kasper <jordan@jordankasper.com> (http://jordankasper.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^1.4.0"
+  }
+}
